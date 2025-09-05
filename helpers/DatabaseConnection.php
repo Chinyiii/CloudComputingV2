@@ -7,8 +7,8 @@ class DatabaseConnection {
     
     // Database configuration constants - UPDATE THESE WITH YOUR ACTUAL CREDENTIALS
     private const DB_HOST = 'localhost';
-    private const DB_USER = 'root';
-    private const DB_PASS = '1234';  // Update with your password
+    private const DB_USER = 'chinyi';
+    private const DB_PASS = 'student69';  // Update with your password
     private const DB_NAME = 'university_portal';
     private const DB_PORT = 3306;
     private const DB_CHARSET = 'utf8mb4';
